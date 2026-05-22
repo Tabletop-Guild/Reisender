@@ -5,6 +5,13 @@ theme:
   palette:
     scheme: slate
     primary: green
+  features:
+    - navigation.tabs
+
+plugins:
+  - search
+  - tags
+  - autorefs
 
 nav:
   - Home: index.md
