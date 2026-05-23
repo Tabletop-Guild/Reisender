@@ -4,7 +4,7 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: green
+    primary: black
   features:
     - navigation.tabs
 
@@ -15,4 +15,12 @@ plugins:
 
 nav:
   - Home: index.md
+  - Books:
+    - Core Rule Book: books/B00-CORE/index.md
+    - Game Masters Guide: books/B01-GM-GUIDE/index.md
   - About: about.md
+
+copyright: Copyright &copy; 2025 - 2025 Peter Rose
+
+extra:
+  generator: false
