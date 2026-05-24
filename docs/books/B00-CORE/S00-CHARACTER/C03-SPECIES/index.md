@@ -10,4 +10,4 @@
 
 [Narcisse][the-narcisse]
 
-[Automata][the-automat]
+[Automata][the-automata]
