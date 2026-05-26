@@ -16,7 +16,7 @@ These are just as important as the primary attributes. The main difference is th
 ### Tertiary Attributes
 These are your small ones, hair colour, weight, sex, gender, etc.
 
-While your tertiary attributes seldom impact gameplay on a strictly mechanical level, they are important in their own way. These attributes can often have interesting consequences. Being taller might allow one to reach higher or farther, whereas being small might allow you to fit in tighter spaces. Some people might have an affinity or aversion for different sexes and genders. Tertiary attributes are more likely to impact roleplay and how a Game Master makes use of these attributes can have surprising impact. 
+While your tertiary attributes seldom impact gameplay on a strictly mechanical level, they are important in their own way. These attributes can often have interesting consequences. Being taller might allow one to reach higher or farther, whereas being small might allow you to fit in tighter spaces. Some people might have an affinity or aversion for different sexes and genders. Tertiary attributes are more likely to impact roleplay, and how a Game Master makes use of these attributes can have a notable impact. 
 
 ---
 
@@ -78,6 +78,11 @@ TODO
 ### Stamina Points
 #### Calculating Stamina Points
 TODO
+
+### Action Points
+Characters use action points to 
+
+#### Calculating Action Points
 
 ### Destiny Points
 #### Calculating Destiny Points
